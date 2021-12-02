@@ -13,10 +13,10 @@
 1 процессор <br>
 ![result1](https://github.com/grigoryblack/multi/blob/main/results/1processor_result.png)
 
-3 воркер <br>
+3 процессора <br>
 ![result3](https://github.com/grigoryblack/multi/blob/main/results/3processors_result.png)
 
-7 воркер <br>
+7 процессоров <br>
 ![result7](https://github.com/grigoryblack/multi/blob/main/results/7processors_result.png)
 
 # multi: io-bound-task
